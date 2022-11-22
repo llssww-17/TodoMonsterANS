@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <manifest useDirectView="false">
     <log>y</log>
-    <lang>ko</lang>
+    <lang>en</lang>
     <resource>
         <base_version>000000</base_version>
         <target>app</target>
